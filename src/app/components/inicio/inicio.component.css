@@ -22,7 +22,7 @@
 .cm {
   font-size: 16px;
   font-weight: 400;
-  margin-left: -10px;
+  margin-left: -5px;
 }
 
 .form-range {
@@ -43,5 +43,5 @@ input[type='range']::-webkit-slider-thumb {
 }
 
 .sexoDesactivo {
-    background-color: #7D2F2F33;
+  background-color: #7d2f2f33;
 }
