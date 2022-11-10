@@ -26,10 +26,22 @@
 }
 
 .form-range {
-    padding: 0 20px;
+  padding: 0 20px;
 }
 
-input[type=range]::-webkit-slider-thumb {
-    background-color: #FF3366;
-    border-color: #FF3366;
+input[type='range']::-webkit-slider-thumb {
+  background-color: #ff3366;
+  border-color: #ff3366;
+}
+
+.sumaResta {
+  cursor: pointer;
+  background-color: #ff4c4f5e;
+  padding: 7px;
+  border-radius: 15px;
+  margin-left: 3px;
+}
+
+.sexoDesactivo {
+    background-color: #7D2F2F33;
 }
