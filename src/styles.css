@@ -8,3 +8,31 @@ body {
     text-align: center;
     margin-top: 25px;
 }
+
+.row {
+    margin-top: 20px    ;
+}
+
+.btn-color {
+    background-color: #FF3366;
+    border-color: #FF3366;
+    width: 100%;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+.btn-color:hover {
+    background-color: #FF3366;
+    border-color: #FF3366;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
